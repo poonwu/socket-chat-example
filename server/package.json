@@ -1,0 +1,13 @@
+{
+  "name": "socket-chat-example-server",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}

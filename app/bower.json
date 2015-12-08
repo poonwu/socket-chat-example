@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-example-client",
+  "description": "",
+  "main": "",
+  "authors": [
+    "poonwu <poon.wuthi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/poonwu/socket-chat-example",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "~1.3.7"
+  }
+}
